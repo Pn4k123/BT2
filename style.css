@@ -1,0 +1,58 @@
+h1 {
+    color: rgba(38, 0, 255, 0.836);
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+h3 {
+    text-align: center;
+    font-size: xx-large;
+}
+
+p {
+    font-size: x-large;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+p.a {
+    font-size: xx-large;
+}
+
+p.b {
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+}
+
+input {
+    height: 30px;
+
+}
+
+.header tr td a {
+    padding: 15px;
+    font-size: xx-large;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.header tr td {
+    padding: 15px;
+}
+
+.content tr td {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.footer {
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
